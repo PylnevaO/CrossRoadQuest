@@ -1,0 +1,136 @@
+{
+    "novels": [
+        {
+            "id": "novel_0000000001",
+            "lable": "Development Novel",
+            "description": "Just do this shit dud",
+            "chapters": [
+                {
+                    "id": "chapter_00000001",
+                    "lable": "First Chapter",
+                    "description": "",
+                    "scenes": [
+                        {
+                            "id": "scene_00000001",
+                            "background": "https://img5.goodfon.ru/wallpaper/original/f/6c/bohemian-switzerland-czechia-janov-ustecky-kraj-ceska-republ.jpg",
+                            "frams": [
+                                {
+                                    "id": "frame_1",
+                                    "text": "Все началось за долго до того как я попал сюда",
+                                    "mainCharacter": {
+                                        "id": "Char_0001",
+                                        "emotion": "basic"
+                                    },
+                                    "otherCharacters": null
+                                },
+                                {
+                                    "id": "frame_2",
+                                    "text": "Я был крошечной песчинкой в жестоком и необузданном мире",
+                                    "mainCharacter": {
+                                        "id": "Char_0001",
+                                        "emotion": "basic"
+                                    },
+                                    "otherCharacters": null
+                                },
+                                {
+                                    "id": "frame_1",
+                                    "text": "Now everythings chenged... I am not just a little boy in mad world! I am.... a MAD man in this nasty tiny world! Nothing can stop me...",
+                                    "mainCharacter": {
+                                        "id": "Char_0001",
+                                        "emotion": "basic"
+                                    },
+                                    "otherCharacters": null
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": "scene_00000002",
+                            "background": "https://img4.goodfon.ru/original/1920x1080/d/bb/priroda-les-leto-utro-rosa-bliki-pautina.jpg",
+                            "frams": [
+                                {
+                                    "id": "frame_1",
+                                    "text": "Tomorrow I went to the sity and bought milk",
+                                    "mainCharacter": {
+                                        "id": "Char_0001",
+                                        "emotion": "basic"
+                                    },
+                                    "otherCharacters": null
+                                },
+                                {
+                                    "id": "frame_2",
+                                    "text": "I added some milk to cereal and ate this like a try man",
+                                    "mainCharacter": {
+                                        "id": "Char_0001",
+                                        "emotion": "basic"
+                                    },
+                                    "otherCharacters": null
+                                }
+                            ]
+
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "lable": "Second Chapter",
+                    "description": "",
+                    "scenes": [
+                        {
+                            "id": "scene_00000001",
+                            "background": "https://img5.goodfon.ru/wallpaper/original/f/6c/bohemian-switzerland-czechia-janov-ustecky-kraj-ceska-republ.jpg",
+                            "frams": [
+                                {
+                                    "id": "frame_1",
+                                    "text": "after eating I was watching jojo bizzare adventure. it's my favorite anime about try men. Jojo inspered me go to gum ",
+                                    "mainCharacter": {
+                                        "id": "Char_0001",
+                                        "emotion": "basic"
+                                    },
+                                    "otherCharacters": null
+                                },
+                                {
+                                    "id": "frame_2",
+                                    "text": "I come to gym and it was arms day. Arms work out is my favorite. I really love my big arms",
+                                    "mainCharacter": {
+                                        "id": "Char_0001",
+                                        "emotion": "basic"
+                                    },
+                                    "otherCharacters": null
+                                }
+                            ]
+
+                        },
+                        {
+                            "id": "scene_00000002",
+                            "background": "https://img4.goodfon.ru/original/1920x1080/d/bb/priroda-les-leto-utro-rosa-bliki-pautina.jpg",
+                            "frams": [
+                                {
+                                    "id": "frame_1",
+                                    "text": "Guys in gym said I becoming handsome and they proud of me. I was so exated.",
+                                    "mainCharacter": {
+                                        "id": "Char_0001",
+                                        "emotion": "basic"
+                                    },
+                                    "otherCharacters": null
+                                },
+                                {
+                                    "id": "frame_2",
+                                    "text": "I love my gym friends: Rick and Ben. They arre strong and handsome",
+                                    "mainCharacter": {
+                                        "id": "Char_0001",
+                                        "emotion": "basic"
+                                    },
+                                    "otherCharacters": null
+                                }
+                            ]
+
+                        }
+                    ]
+                }
+            ],
+            "charecters":[]
+
+        }
+    ]
+}
